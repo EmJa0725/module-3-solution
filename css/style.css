@@ -1,0 +1,27 @@
+body{
+  contain: content
+}
+.navbar{
+  border-bottom: 2px solid red;
+}
+.navbar-brand{
+  font-size: 40px;
+  font-weight: bold;  
+}
+.navbar-brand h1{
+  line-height: .6;
+}
+.nav-item{
+   border-bottom: 2px solid red;
+}
+.chicken,.beef,.sushi{
+  background: gainsboro;
+  border: 2px solid red
+}
+.mainContent h4{
+  font-weight: bold;  
+}
+.mainContent p{
+  font-size:0.8em;
+  font-style: italic;
+}
